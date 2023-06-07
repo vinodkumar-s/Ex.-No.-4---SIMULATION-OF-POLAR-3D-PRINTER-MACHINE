@@ -33,8 +33,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![239239839-204e6651-f90d-4ace-9216-b2d78c4cc0a9](https://github.com/vinodkumar-s/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113497226/7c0b5a23-93e3-48ad-ae59-c29df0889442)
+
+
+
+### Name: VINOD KUMAR S
+### Register Number: 212222240116
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
